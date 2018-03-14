@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 var TimeInput = require('../models/TimeInput.js');
 
 var bot = new SlackBot({
-    token: 'xoxb-328763882387-tDSGGxWozp3vspLCdLez6JUt',
+    token: '',
     name: 'timbot'
 });
 
